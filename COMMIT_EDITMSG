@@ -1,0 +1,5 @@
+Update admin login to allow direct access to the dashboard.  Removed authentication checks for admin users and updated UI elements.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 1d7bd3f6-2a4a-43a7-9c93-759fde4485e1
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/79e594a8-fe4e-487b-ba24-20e5f5244ce4/ed13439b-fefd-4ea5-8179-fa659ac5ff56.jpg
